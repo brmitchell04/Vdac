@@ -1,9 +1,6 @@
 /*
   MCP3208.h - library to operate the MCP3204/08 ADC
 
-  Created by: Clayton Chu
-              clayton.n.chu@boeing.com
-
   USAGE
        MCP3208 adc(9); // instantiate an MCP3208 object using chip-select pin 9
        adc.begin(); 
